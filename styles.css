@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+body, footer {
+    text-align: center;
+    display: block;
+    margin: 8px;
+} 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px; 
+  }
+body {
+    background-color:rgb(241, 198, 198);
+}
+p {
+    font-size: 22px;
+}
+#mainHeading {
+    color:red;
+    font-size: 40px;
+}
+.funParagraph {
+    color: green;
+}
